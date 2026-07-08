@@ -1,0 +1,50 @@
+{
+  "eventos": [
+    {
+      "id": "1",
+      "titulo": "Conferencia de Inteligencia Artificial",
+      "tipo": "Conferencia",
+      "fecha": "2026-08-15",
+      "hora": "10:00",
+      "lugar": "Auditorio Principal",
+      "descripcion": "Evento académico sobre tendencias actuales de inteligencia artificial.",
+      "ponente": "Dra. Ana Torres",
+      "cupos": 50
+    },
+    {
+      "titulo": "Curso de ciberseguridad",
+      "tipo": "Taller",
+      "fecha": "2026-07-16",
+      "hora": "15:00",
+      "lugar": "Auditorio Continental",
+      "descripcion": "Curso dirigido a estudiantes de pregrado",
+      "ponente": "Ing. Raul Diaz",
+      "cupos": 50,
+      "id": "B1d6D_cdORA"
+    }
+  ],
+  "participantes": [
+    {
+      "id": "1",
+      "nombres": "Carlos Ramos",
+      "correo": "carlos.ramos@universidad.edu",
+      "tipo": "Estudiante"
+    },
+    {
+      "nombres": "María López",
+      "correo": "maria.lopez@universidad.edu",
+      "tipo": "Estudiante",
+      "id": "ex1YX0Hua_g"
+    }
+  ],
+  "inscripciones": [
+    {
+      "id": "1",
+      "eventoId": "1",
+      "eventoTitulo": "Conferencia de Inteligencia Artificial",
+      "participanteId": "1",
+      "participanteNombre": "Carlos Ramos"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
