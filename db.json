@@ -195,6 +195,5 @@
       "participanteNombre": "Ana Torres Torres",
       "id": "iB1NQF66QN0"
     }
-  ],
-  "$schema": "./node_modules/json-server/schema.json"
+  ]
 }
