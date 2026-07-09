@@ -35,7 +35,7 @@ function Participantes() {
     e.preventDefault();
 
     await crearParticipante(participante);
-
+    alert("Participante registrado correctamente.");
     setParticipante({
       nombres: "",
       correo: "",

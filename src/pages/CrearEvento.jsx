@@ -30,7 +30,7 @@ function CrearEvento() {
       ...evento,
       cupos: Number(evento.cupos)
     });
-
+    alert("Evento registrado correctamente");
     navigate("/eventos");
   };
 

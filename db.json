@@ -2,48 +2,198 @@
   "eventos": [
     {
       "id": "1",
-      "titulo": "Conferencia de Inteligencia Artificial",
+      "titulo": "Conferencia de Inteligencia Artificial para Ingeniería de Sistemas",
       "tipo": "Conferencia",
       "fecha": "2026-08-15",
       "hora": "10:00",
       "lugar": "Auditorio Principal",
-      "descripcion": "Evento académico sobre tendencias actuales de inteligencia artificial.",
+      "descripcion": "Evento académico sobre inteligencia artificial, desarrollo de software y tecnologías emergentes.",
       "ponente": "Dra. Ana Torres",
       "cupos": 50
     },
     {
-      "titulo": "Curso de ciberseguridad",
+      "id": "2",
+      "titulo": "Seminario de Litigación Oral en Derecho",
+      "tipo": "Seminario",
+      "fecha": "2026-08-20",
+      "hora": "09:00",
+      "lugar": "Sala de Juicios Simulados",
+      "descripcion": "Capacitación en técnicas de argumentación y litigación para estudiantes de Derecho.",
+      "ponente": "Dr. Luis Mendoza",
+      "cupos": 40
+    },
+    {
+      "id": "3",
+      "titulo": "Taller de Diseño Arquitectónico Sostenible",
       "tipo": "Taller",
-      "fecha": "2026-07-16",
+      "fecha": "2026-08-25",
+      "hora": "14:00",
+      "lugar": "Laboratorio de Arquitectura",
+      "descripcion": "Aprende estrategias de diseño sostenible y construcción ecológica.",
+      "ponente": "Arq. María Fernández",
+      "cupos": 35
+    },
+    {
+      "id": "4",
+      "titulo": "Congreso de Innovación en Ingeniería Civil",
+      "tipo": "Congreso",
+      "fecha": "2026-09-02",
+      "hora": "08:30",
+      "lugar": "Centro de Convenciones",
+      "descripcion": "Presentación de nuevas tecnologías y tendencias en infraestructura y construcción.",
+      "ponente": "Ing. Carlos Ramos",
+      "cupos": 120
+    },
+    {
+      "id": "5",
+      "titulo": "Jornada de Actualización en Medicina",
+      "tipo": "Jornada",
+      "fecha": "2026-09-08",
+      "hora": "09:30",
+      "lugar": "Auditorio de Ciencias de la Salud",
+      "descripcion": "Conferencias sobre avances médicos y buenas prácticas clínicas.",
+      "ponente": "Dra. Sofía Herrera",
+      "cupos": 80
+    },
+    {
+      "id": "6",
+      "titulo": "Conferencia de Marketing Digital para Administración",
+      "tipo": "Conferencia",
+      "fecha": "2026-09-15",
+      "hora": "11:00",
+      "lugar": "Aula Magna",
+      "descripcion": "Estrategias modernas de marketing digital y gestión empresarial.",
+      "ponente": "Mg. Diego Castro",
+      "cupos": 60
+    },
+    {
+      "id": "7",
+      "titulo": "Seminario de Educación Inclusiva",
+      "tipo": "Seminario",
+      "fecha": "2026-09-20",
       "hora": "15:00",
-      "lugar": "Auditorio Continental",
-      "descripcion": "Curso dirigido a estudiantes de pregrado",
-      "ponente": "Ing. Raul Diaz",
-      "cupos": 50,
-      "id": "B1d6D_cdORA"
+      "lugar": "Facultad de Educación",
+      "descripcion": "Buenas prácticas para una educación inclusiva y de calidad.",
+      "ponente": "Mg. Valeria Paredes",
+      "cupos": 45
+    },
+    {
+      "id": "8",
+      "titulo": "Workshop de Finanzas y Contabilidad Empresarial",
+      "tipo": "Workshop",
+      "fecha": "2026-09-25",
+      "hora": "10:30",
+      "lugar": "Laboratorio Financiero",
+      "descripcion": "Análisis financiero, contabilidad y herramientas para la toma de decisiones.",
+      "ponente": "C.P.C. Miguel Flores",
+      "cupos": 40
+    },
+    {
+      "id": "9",
+      "titulo": "Congreso de Psicología Organizacional",
+      "tipo": "Congreso",
+      "fecha": "2026-10-03",
+      "hora": "09:00",
+      "lugar": "Auditorio de Humanidades",
+      "descripcion": "Desarrollo del talento humano y bienestar organizacional.",
+      "ponente": "Dra. Camila Rojas",
+      "cupos": 70
+    },
+    {
+      "id": "10",
+      "titulo": "Taller de Gestión Ambiental e Ingeniería Industrial",
+      "tipo": "Taller",
+      "fecha": "2026-10-10",
+      "hora": "14:30",
+      "lugar": "Laboratorio de Ingeniería",
+      "descripcion": "Aplicación de procesos sostenibles y mejora continua en la industria.",
+      "ponente": "Ing. José Quispe",
+      "cupos": 50
     }
   ],
   "participantes": [
     {
-      "id": "1",
-      "nombres": "Carlos Ramos",
-      "correo": "carlos.ramos@universidad.edu",
+      "id": "2",
+      "nombres": "María Fernández Flores",
+      "correo": "maria.fernandez@continental.edu.pe",
       "tipo": "Estudiante"
     },
     {
-      "nombres": "María López",
-      "correo": "maria.lopez@universidad.edu",
+      "id": "3",
+      "nombres": "José Quispe Hernandez",
+      "correo": "jose.quispe@continental.edu.pe",
+      "tipo": "Estudiante"
+    },
+    {
+      "id": "4",
+      "nombres": "Ana Torres Torres",
+      "correo": "ana.torres@continental.edu.pe",
+      "tipo": "Estudiante"
+    },
+    {
+      "id": "5",
+      "nombres": "Luis Mendoza Quiñonez",
+      "correo": "luis.mendoza@continental.edu.pe",
+      "tipo": "Estudiante"
+    },
+    {
+      "id": "6",
+      "nombres": "Sofía Herrera Navarro",
+      "correo": "sofia.herrera@continental.edu.pe",
+      "tipo": "Estudiante"
+    },
+    {
+      "id": "7",
+      "nombres": "Diego Castro Gutierrez",
+      "correo": "diego.castro@continental.edu.pe",
+      "tipo": "Estudiante"
+    },
+    {
+      "id": "8",
+      "nombres": "Valeria Paredes Ttito",
+      "correo": "valeria.paredes@continental.edu.pe",
+      "tipo": "Estudiante"
+    },
+    {
+      "id": "9",
+      "nombres": "Miguel Flore Castillo",
+      "correo": "miguel.flores@continental.edu.pe",
+      "tipo": "Estudiante"
+    },
+    {
+      "id": "10",
+      "nombres": "Camila Rojas Duarte",
+      "correo": "camila.rojas@continental.edu.pe",
+      "tipo": "Estudiante"
+    },
+    {
+      "nombres": "María López Briceño",
+      "correo": "Maria@continental.edu.pe",
       "tipo": "Estudiante",
-      "id": "ex1YX0Hua_g"
+      "id": "0Vrv3gHaCDE"
     }
   ],
   "inscripciones": [
     {
-      "id": "1",
       "eventoId": "1",
-      "eventoTitulo": "Conferencia de Inteligencia Artificial",
-      "participanteId": "1",
-      "participanteNombre": "Carlos Ramos"
+      "eventoTitulo": "Conferencia de Inteligencia Artificial para Ingeniería de Sistemas",
+      "participanteId": null,
+      "participanteNombre": "Carlos Ramos Dias",
+      "id": "VYA8J4YDI4s"
+    },
+    {
+      "eventoId": "2",
+      "eventoTitulo": "Seminario de Litigación Oral en Derecho",
+      "participanteId": "2",
+      "participanteNombre": "María Fernández Flores",
+      "id": "gnXytQ6mTJ4"
+    },
+    {
+      "eventoId": "8",
+      "eventoTitulo": "Workshop de Finanzas y Contabilidad Empresarial",
+      "participanteId": "4",
+      "participanteNombre": "Ana Torres Torres",
+      "id": "iB1NQF66QN0"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"

@@ -61,7 +61,7 @@ function Inscripciones() {
     };
 
     await crearInscripcion(nuevaInscripcion);
-
+    alert("Inscripción registrada correctamente.");
     setEventoId("");
     setParticipanteId("");
     setMensaje("Inscripción registrada correctamente.");
